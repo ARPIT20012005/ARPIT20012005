@@ -3,7 +3,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ARPIT20012005">
 
 
-<h10 align="center"><img src="https://github.com/user-attachments/assets/5b1fbdc2-41e4-4449-9427-6e2ded456548"></h10>
+<h10 align="center"><img src="https://github.com/user-attachments/assets/ca7f6c1f-9377-49ef-8424-ddf0a560ceae" height="300" width="1000" ></h10>
 
 <h2>About me</h2>
 
@@ -48,7 +48,7 @@ I’m Arpit Choudhari, an enthusiastic and curious learner with a growing passio
 📫Connect with me:
 
 
-[<img src="https://github.com/user-attachments/assets/6f0311b9-830d-4bf7-a114-eadc32351c59" height="48" width="48">](https://www.linkedin.com/in/arpit-choudhari-435580271/) 
-[<img src="https://github.com/user-attachments/assets/adbcf3a5-2cb8-42a5-ad03-810338ae61fc" height="48" width="48">](arpitchoudhari20@gmail.com)
-[<img src="https://github.com/user-attachments/assets/06d4b1ea-79a2-4f6e-99d2-8e4c0006dfc7" height="48" width="48">](https://www.instagram.com/arpit_choudhari20/)
+[<img src="https://github.com/user-attachments/assets/6bb41c26-02a6-4722-9a21-7f1da29db816" height="48" width="48">](https://www.linkedin.com/in/arpit-choudhari-435580271/) 
+[<img src="https://github.com/user-attachments/assets/31ce6e96-e081-420d-9744-625815455e9d" height="48" width="48">](arpitchoudhari20@gmail.com)
+[<img src="https://github.com/user-attachments/assets/ff0a8c71-4d0e-4536-85ac-100f4eefea2a" height="48" width="48">](https://www.instagram.com/arpit_choudhari20/)
 
