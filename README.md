@@ -45,7 +45,7 @@ I’m Arpit Choudhari, an enthusiastic and curious learner with a growing passio
 
 
 
-📫Connect with me:
+<h2>📫Connect with me:<h2/>
 
 
 [<img src="https://github.com/user-attachments/assets/6bb41c26-02a6-4722-9a21-7f1da29db816" height="48" width="48">](https://www.linkedin.com/in/arpit-choudhari-435580271/) 
